@@ -1,3 +1,6 @@
+![image alt](https://github.com/azizmeca1/esp32cam-yolov3-object-detection/blob/main/cpcoin_model/images/Capture d'écran 2025-12-27 130747.png?raw=true)
+
+
 # Coin Detection and Counting with YOLO
 
 A real-time coin detection and counting system using YOLOv8 for video analysis. This project implements object detection to identify and count coins in video streams with high accuracy.
