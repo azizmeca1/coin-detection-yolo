@@ -1,4 +1,4 @@
-![image alt](https://github.com/azizmeca1/coin-detection-yolo/blob/main/cpoin_model/images/Capture d'écran 2025-12-27 130747.png?raw=true)
+![image alt](https://github.comcoin-detection-yolo/cpoin_model/images/coin_detection.png?raw=true)
 
 # Coin Detection and Counting with YOLO
 
