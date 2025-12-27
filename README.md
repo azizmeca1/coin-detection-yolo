@@ -1,5 +1,5 @@
-![Coin Detection Example](https://github.com/azizmeca1/coin-detection-yolo/main/cpcoin_model/images/Capture d'écran 2025-12-27 130747.png?raw=true)
-
+[![Coin Detection Example](https://github.com/azizmeca1/coin-detection-yolo/main/cpcoin_model/images/Capture d'écran 2025-12-27 130747.png?raw=true)
+](https://github.com/azizmeca1/coin-detection-yolo/blob/main/cpoin_model/images/Capture%20d%27%C3%A9cran%202025-12-27%20130747.png?raw=true)
 
 # Coin Detection and Counting with YOLO
 
